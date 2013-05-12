@@ -33,10 +33,17 @@
 	   	"file":"fonts/LCARS.ttf"
 	   },
 
-	   {
+{
 	   	"type":"font",
 	   	"defName":"FONT_LCARS_17",
+	   	"characterRegex": "[.0-9]",
 	   	"file":"fonts/LCARS.ttf"
+	   },
+
+	   {
+	   	"type":"font",
+	   	"defName":"FONT_LCARS_BOLD_17",
+	   	"file":"fonts/LCARS_BOLD.TTF"
 	   }
 	  ]
 }
